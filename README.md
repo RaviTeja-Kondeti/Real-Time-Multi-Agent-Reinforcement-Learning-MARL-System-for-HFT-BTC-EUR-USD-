@@ -5,7 +5,7 @@
 [![Research](https://img.shields.io/badge/Research-AI%20%2B%20Finance-red.svg)]()
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-RL-green.svg)]()
 
-> **Stanford Application Research Project** | Advancing AI-Driven Financial Markets through Multi-Agent Collaboration
+Advancing AI-Driven Financial Markets through Multi-Agent Collaboration
 
 ---
 
